@@ -17,7 +17,7 @@ let isStudent = true;
 console.log(isStudent);
 
 //task 5
-//comparison operators give boolean results
+//comparison operators and logical operators give boolean results
 
 //task 6
 let text = "Hello";
